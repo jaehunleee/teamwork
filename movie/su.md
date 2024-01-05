@@ -12,6 +12,6 @@
 https://www.youtube.com/watch?v=5VxP4FDekko
 ![콘크리트 유토피아](https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/06/13/2a47c54f-e681-48da-8947-fd374ece967e.jpg)
 
-|[신과함께](src/신과함께.jpg)|![어바웃타임](src/어바웃.jpg)|![나는 내일, 어제의 너와 만난다](src/ljh_picture.jpg)|![노량: 죽음의 바다](src/노량.jpg)|  
-|---|---|---|---|
-|신과함께|어바웃타임|[나는 내일, 어제의 너와 만난다](ljh.md)|노량: 죽음의 바다|
+|![신과 함께](../src/신과함께.jpg)|![어바웃타임](../src/어바웃.jpg)|![나는 내일, 어제의 너와 만난다](../src/ljh_picture.jpg)|![노량: 죽음의 바다](../src/노량.jpg)|  
+|:---:|:---:|:---:|:---:|
+|[신과 함께](lss.md)|[어바웃타임](smw.md)|[나는 내일, 어제의 너와 만난다](su.md)|[노량: 죽음의 바다](kms.md)|
