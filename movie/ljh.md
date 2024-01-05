@@ -19,8 +19,3 @@ __소개__
 |영화 이미지|영화 이미지|영화 이미지|영화 이미지|
 |---|---|---|---|
 |[신과 함께](lss.md)|[어바웃타임](smw.md)|[콘크리트 유토피아](su.md)|[노량: 죽음의 바다](kms.md)|
-
-[ㄱ](https://www.naver.com/)  
-[ㄴ](https://www.naver.com/)  
-[ㄷ](https://www.naver.com/)  
-[ㄹ](https://www.naver.com/)
