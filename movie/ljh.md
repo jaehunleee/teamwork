@@ -2,7 +2,6 @@
 #### 영화 My tomorrow, your yesterday 2017
 
 ![movie](src/ljh_picture.jpg)
-<img src="src/ljh_picture.jpg" width="1" height="1" alt="movie">
 
 ```
 개요   멜로/로맨스  일본  110분
