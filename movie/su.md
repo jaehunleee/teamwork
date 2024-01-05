@@ -12,4 +12,4 @@
 https://www.youtube.com/watch?v=5VxP4FDekko
 ![이미지가 안보일 때 표시할 글자](https://i.namu.wiki/i/AAbktD4ERQ2Cj0u9S_MYukbQROltSIK6v0BuRnNZ4klp_uZYBYRAHQLagSyH62uJPnfhekjO7f4fED_qmC6kU3WSRcyPVQVdcUIDhTBvWDQQBa9csKOHDuRPjxbtvy9elkLG_jP9gqNKLngulFXzDw.webp)
 
-https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/06/13/2a47c54f-e681-48da-8947-fd374ece967e.jpg
+![콘크리트 유토피아](https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/06/13/2a47c54f-e681-48da-8947-fd374ece967e.jpg)
