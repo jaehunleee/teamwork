@@ -9,7 +9,7 @@
 관객수 3,454,200명  
 
 ## 등장인물
-![레이첼 맥아담스](https://post-phinf.pstatic.net/MjAyMjA1MDVfMjY5/MDAxNjUxNzI2MzM1MDQ4.ZiHqihgMlNf9zdMEcSyfAysI93VHL3owzt6JgI038wEg.Rrm4gu7xgQE8vU5GOmDjEwIq9oZTJXYgfORcqDBWBzog.PNG/movie_image.png?type=w1200){: width="100" height="100"}  
+![레이첼 맥아담스](https://search1.kakaocdn.net/thumb/S232x290.fwebp.q100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F250A2D38527CA67919)    
 
 
 ### 줄거리
