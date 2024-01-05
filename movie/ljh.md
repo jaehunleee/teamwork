@@ -1,7 +1,7 @@
 # 나는 내일, 어제의 너와 만난다
 #### 영화 My tomorrow, your yesterday 2017
 
-![movie](ljh_picture.jpg)
+![movie](teamwork/src/ljh_picture.jpg)
 
 ```
 개요   멜로/로맨스  일본  110분
