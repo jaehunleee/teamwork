@@ -1,7 +1,7 @@
 # 나는 내일, 어제의 너와 만난다
 #### 영화 My tomorrow, your yesterday 2017
 
-![movie](ljh_picture.jpg)
+![movie](src/ljh_picture.jpg)
 <img src="ljh_picture.jpg" width="1" height="1" alt="movie">
 
 ```
